@@ -1,2 +1,2 @@
-# shneer
-New dependency manager for PHP.
+# Shneer
+A new dependency manager for PHP.
